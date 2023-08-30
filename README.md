@@ -283,7 +283,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jayed Rafi](https://jayedrafi.com)
 - [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
 - [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
-- [Jens van Wijhe](https://jens.ai)
+- [Jens van Wijhe](https://www.beterbekend.nl)
 - [Jeremy Erik Leong](https://www.jeremyerikleong.com)
 - [Jeremy Grifski](https://jeremygrifski.com)
 - [Jerry Hirsch](https://jerryhirsch.com)
@@ -447,6 +447,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Preet Suthar](https://preetsuthar.me)
 - [Prince Muhammad](https://princemuhammad.pro)
 - [Priya Nayak](https://priya180975.github.io/portfolio)
+- [Pushkar Patel](https://thepushkarp.com/)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
 
 ## Q
@@ -474,6 +475,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Roberto Andrade](https://robertandradejr.dev)
 - [Rodrigo Kamada](https://rodrigo.kamada.com.br)
 - [Rohit Jain](https://kingtechnologies.in)
+- [Rohit Kushwaha](https://rohitk06.vercel.app)
 - [Rohith V](http://rohithvazhathody.pythonanywhere.com)
 - [Roland L. Taylor](http://rolandixor.pro)
 - [Roman Smunyov](https://romanisthere.github.io)
